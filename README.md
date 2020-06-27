@@ -1,1 +1,2 @@
 # investtigate_dataset_TMDB
+In this project, we will analyze the movie database "TMDB" from IMDB, we gonna follow the data analysis process by first understand the data, wrangling, ask questions, answering the question by visualizations the data, and statics. this data talk about the movies with all the details e.g.(cast, directors, revenue ... ) we will find more facts and more than more with analysis, so **let's go and discover**
